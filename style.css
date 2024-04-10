@@ -92,3 +92,23 @@ li{
     from {opacity: .5}
     to {opacity: 1}
 }
+body{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.box-it{
+    background-color: rgb(252, 241, 216);
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgb(252, 190, 108);
+}
+h3{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(139, 33, 33);
+}
+p{
+    padding: 10px;
+    text-align: left;
+}
